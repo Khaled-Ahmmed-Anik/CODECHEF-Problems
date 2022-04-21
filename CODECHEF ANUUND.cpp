@@ -3,7 +3,7 @@
     problem: ANUUND
     OJ: CODECHEF
     Problem link: https://www.codechef.com/problems/ANUUND
-    Idea: sort the array. let, half part of the arrar = firstPart & last part of the array = lastPart.
+    Idea: sort the array. Let, firstPart = half part of the arrar  & lastPart = last part of the array .
 
           Now,continue printing ->  1 element from end of firstPart and 1 element from the beginning of lastPart...
 
