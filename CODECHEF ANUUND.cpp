@@ -3,9 +3,9 @@
     problem: ANUUND
     OJ: CODECHEF
     Problem link: https://www.codechef.com/problems/ANUUND
-    Idea: sort the array, let, half part of the arrar = firstPart; last part of the array = lastPart.
+    Idea: sort the array. let, half part of the arrar = firstPart & last part of the array = lastPart.
 
-          Now,continue printing ->  1 element from last of firstPart and 1 element from the beginning of lastPart...
+          Now,continue printing ->  1 element from end of firstPart and 1 element from the beginning of lastPart...
 
 */
 #include <bits/stdc++.h>
