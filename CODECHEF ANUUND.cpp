@@ -40,12 +40,9 @@ void solve() {
 }
 
 int main() {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
     int t = 1;
     cin>>t;
+    //test cases
     while (t--)
         solve();
 }
